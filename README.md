@@ -1,6 +1,5 @@
 # Books
 
-Made a React app using Hooks to add, edit, and remove books from the app as well as a JSON server to store data.
 
 ## Description
 
