@@ -3,7 +3,7 @@
 
 ## Description
 
-A React app that adds, edits, and removes users's input as a book title. It applies Hooks and a custom Hook including: useState, useEffect, and useCallback to handle and re-render the current state of the app. Furthermore, it utilises a JSON server to store data and Axios to make requests to the API.
+A React app that adds, edits, and removes users's input as a book title. It applies hooks and a custom hook including: useState, useEffect, and useCallback to handle and re-render the current state of the app. Furthermore, it utilises a JSON server to store data and Axios to make requests to the API.
 
 ## Acknowledgments
 
